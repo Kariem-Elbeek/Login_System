@@ -1,0 +1,18 @@
+body{
+    background-color: #24353f;
+}
+
+.container{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover {
+    color: inherit !important;
+    text-decoration: underline !important;
+    cursor: pointer;
+    
+}
+
